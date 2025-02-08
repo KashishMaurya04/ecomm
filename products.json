@@ -1,5 +1,0 @@
-[
-  { "id": 1, "name": "Phone", "price": 699, "category": "Electronics", "rating": 4, "image": "phone.jpg" },
-  { "id": 2, "name": "T-Shirt", "price": 25, "category": "Clothing", "rating": 5, "image": "tshirt.jpg" },
-  { "id": 3, "name": "Book", "price": 15, "category": "Books", "rating": 3, "image": "book.jpg" }
-]

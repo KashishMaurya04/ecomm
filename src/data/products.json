@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Phone",
+    "price": 699,
+    "category": "Electronics",
+    "rating": 4,
+    "image": "images/phone.png"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1200,
+    "category": "Electronics",
+    "rating": 5,
+    "image": "images/laptop.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 150,
+    "category": "Electronics",
+    "rating": 4,
+    "image": "images/headphone.png"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 250,
+    "category": "Electronics",
+    "rating": 4,
+    "image": "images/smartwatch.png"
+  },
+  {
+    "id": 5,
+    "name": "T-Shirt",
+    "price": 25,
+    "category": "Clothing",
+    "rating": 5,
+    "image": "images/tshirt.png"
+  },
+  {
+    "id": 6,
+    "name": "Jeans",
+    "price": 45,
+    "category": "Clothing",
+    "rating": 4,
+    "image": "images/jeans.png"
+  },
+  {
+    "id": 7,
+    "name": "Jacket",
+    "price": 80,
+    "category": "Clothing",
+    "rating": 4,
+    "image": "images/jacket.png"
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "price": 60,
+    "category": "Clothing",
+    "rating": 5,
+    "image": "images/shoos.png"
+  },
+  {
+    "id": 9,
+    "name": "Book",
+    "price": 15,
+    "category": "Books",
+    "rating": 3,
+    "image": "images/book.png"
+  },
+  {
+    "id": 10,
+    "name": "Notebook",
+    "price": 10,
+    "category": "Books",
+    "rating": 4,
+    "image": "images/notebook.png"
+  },
+  {
+    "id": 11,
+    "name": "Magazine",
+    "price": 5,
+    "category": "Books",
+    "rating": 3,
+    "image": "images/magzzen.png"
+  },
+  {
+    "id": 12,
+    "name": "E-Reader",
+    "price": 130,
+    "category": "Books",
+    "rating": 4,
+    "image": "images/ereader.png"
+  }
+]
